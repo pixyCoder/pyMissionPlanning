@@ -1,0 +1,2 @@
+Hex method 1 : c8
+Hex method 2: 000000c8

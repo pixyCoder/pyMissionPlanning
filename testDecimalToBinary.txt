@@ -1,0 +1,7 @@
+
+Truth            :  200
+Binary method 1  :                          11001000
+Binary method 2  :  00000000000000000000000011001000
+Decimal method 1 :  200
+Decimal method 2 :  200
+

@@ -1,0 +1,18 @@
+Number of edges :  2
+Initial graph :  {0: {}, 1: {}, 2: {}}
+
+
+Computed node distances
+{0: {1: 2}, 1: {0: 2, 2: 4}, 2: {1: 4}}
+
+
+Min heap, min :  [(2, 1)] 	 1
+Min heap, min :  [(6, 2)] 	 2
+Min heap, min :  [(2, 1)] 	 1
+Min heap, min :  [(6, 2)] 	 2
+
+
+Djikstra computation
+{'0<-->1  path': ['0', '1'], '0<-->1  distance': 2, '0<-->2  path': ['0', '1', '2'], '0<-->2  distance': 6}
+
+

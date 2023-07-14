@@ -1,0 +1,14 @@
+
+String :  madam
+
+
+madam  can be rearraged as a palindrome
+
+countsDict             :  {'m': 2, 'd': 1, 'a': 2}
+countsList             :  [2, 1, 2]
+countsListMod2         :  [0 1 0]
+Odd occurence indices  :  (array([1]),)
+Odd occurences list    :  [1]
+nOddOcc                :  1
+nItems                 :  3
+

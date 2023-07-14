@@ -1,0 +1,5 @@
+Linked list is empty
+Linked list data : 1-->
+Linked list data : 2-->1-->
+Linked list data : 3-->2-->1-->
+Linked list data : 4-->3-->2-->1-->

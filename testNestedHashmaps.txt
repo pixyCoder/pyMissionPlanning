@@ -1,0 +1,8 @@
+Initial nested hashmap :-
+{}
+
+After adding hashmap Brentwood
+{'Brentwood': {'Irvine': 81, 'Torrance': 31}, 'Downtown': {}}
+
+After adding hashmap Downtown
+{'Brentwood': {'Irvine': 81, 'Torrance': 31}, 'Downtown': {'Irvine': 71, 'Torrance': 41}}

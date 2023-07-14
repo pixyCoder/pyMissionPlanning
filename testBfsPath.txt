@@ -1,0 +1,2 @@
+Optimal solution: ['S', 'B', 'D', 'G']
+Visited nodes: ['S', 'A', 'B', 'C', 'D', 'E', 'F', 'G']
